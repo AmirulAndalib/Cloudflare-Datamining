@@ -1766,13 +1766,6 @@
 					}
 				},
 				{
-					"id": "5ebfb84d-759c-59a9-8e3b-18b89b85a20b",
-					"first_name": "Will",
-					"avatar": {
-						"publicURL": "https://cdn.filestackcontent.com/AchUBPpbtR12UdA8r3ilwz/security=policy:eyJleHBpcnkiOjIzMDUzMjk3MzAsImNhbGwiOlsicmVhZCIsImNvbnZlcnQiXSwiaGFuZGxlIjoiRjJaczVyVVRUdnVYUkxnRGNXangifQ==,signature:5afb7f3b82f11dce1f6a1d50894d5826b8fb04d2638a4ec6bae41dd3f2e39c53/cache=expiry:max/resize=w:300,h:300,fit:crop,align:faces/rotate=d:exif/F2Zs5rUTTvuXRLgDcWjx"
-					}
-				},
-				{
 					"id": "ca28a178-c483-5a48-8bf0-876f8916edef",
 					"first_name": "Young",
 					"avatar": {
