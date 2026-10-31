@@ -125,7 +125,6 @@
 		"docs/hyperdrive-paid-connection-limit",
 		"docs/lb-health-monitor-cipher-deprecation",
 		"docs/simplify-vibe-agent-setup",
-		"docs/vibe-coding-auth",
 		"docs/visitor-ip-header-trust",
 		"docs/waf-doc-03-removal-notice",
 		"docs/waf-doc-04-sdd-compressed-responses",

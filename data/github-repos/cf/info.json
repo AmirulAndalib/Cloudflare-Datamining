@@ -28,7 +28,6 @@
 		"codex/fix-204-shared-registry",
 		"codex/fix-223-vite-dev-args",
 		"codex/fix-345-worker-identifiers",
-		"codex/optional-parents-fix",
 		"codex/update-workers-sdk-packages",
 		"codex/viteplus-project-defaults",
 		"codex/workers-oidc-local-dev",
