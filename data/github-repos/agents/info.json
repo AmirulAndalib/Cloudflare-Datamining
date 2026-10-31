@@ -175,6 +175,7 @@
 		"fix-output-override",
 		"gardener/issue-2768",
 		"gardener/issue-2780",
+		"gardener/issue-2784",
 		"gardener/pending-resume-stop",
 		"gardener/pi-gateway-claude-ids",
 		"gardener/resolved-check",
