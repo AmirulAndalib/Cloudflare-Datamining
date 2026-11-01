@@ -445,7 +445,6 @@
 		"t3/fix-issue-4394",
 		"t3/prefetch-refresh-dynamic-only",
 		"t3/prefetch-revalidation-cooldown",
-		"t3/unstable-cache-deferred-write",
 		"web/benchmarks-swr-revalidate"
 	]
 }

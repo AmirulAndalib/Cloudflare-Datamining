@@ -47,6 +47,8 @@
 		"anna/streaming-do-id",
 		"anonrig/improve-justfile",
 		"apeacock/do-on-evict",
+		"apeacock/do-on-hibernate-report-canceled",
+		"apeacock/do-on-hibernate-tail-onset",
 		"apeacock/remove-actor-retry-probes",
 		"apeacock/stor-5489-retry-metadata",
 		"apeacock/testing-evictions",
