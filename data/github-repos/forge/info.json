@@ -31,6 +31,7 @@
 		"forge-mcp",
 		"main",
 		"mcp",
+		"mcp-search-eval",
 		"sk/capnweb-plugin",
 		"sk/mcp",
 		"sk/rfc-capnweb",
