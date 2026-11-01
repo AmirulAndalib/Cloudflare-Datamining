@@ -3,44 +3,72 @@
 	<p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p>
 	<p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p>
 </div>
-<p><strong>Available Locations: Lisbon</strong></p>
-<h1>About the Department</h1>
-<p>Cloudflare's Network Engineering Team builds and runs the infrastructure that runs our software. The Engineering Team is split into two groups: one handles product development and the other handles operations. Product development covers both new features and functionality and scaling our existing software to meet the challenges of a massively growing customer base. The operations team handles one of the world's largest networks with data centers in 190 cities worldwide and a couple of large specialized data centers for internal needs.</p>
-<h1>About the role</h1>
-<p>Cloudflare operates a large global network spanning hundreds of cities (data centers). You will join a team of talented network automation engineers who are building software solutions to improve network resilience and reduce engineering operational toil.</p>
-<p>In this role, you will work on a range of tools, infrastructure and services - new and existing - with an aim to elegantly and efficiently solve problems and deliver practical, maintainable and scalable solutions. Leverage AI tools and automated assistants to streamline daily workflows.</p>
-<h2>Desirable Skills, Knowledge And Experience</h2>
+<h3><strong>About the Role</strong></h3>
+<p>Cloudflare’s API Experience team builds the tools and standards that make our API dependable and easy to use. We maintain SDKs and our Terraform provider, build code generation tooling, and are developing API versioning.</p>
+<p>We’re looking for a senior engineer who cares about the details developers live with: clear interfaces, predictable behavior, useful errors, and upgrades that don’t break their code. You’ll work across languages and teams, help internal engineers ship better APIs, and respond directly to customers. Their feedback will help shape what you build.</p>
+<h3><strong>Responsibilities</strong></h3>
 <ul>
-	<li>BA/BS in Computer Science or equivalent experience</li>
-	<li>6+ years of SRE, DevOps or Software Engineering experience.</li>
-	<li>Distributed Systems &amp; Infrastructure - deep understanding of modern Linux internals, containerization (Docker, Kubernetes).</li>
-	<li>Infrastructure as Code &amp; Automation: Experience with IaC tools and CI/CD pipeline automation.</li>
-	<li>Proficient in programming languages like Python or Golang.</li>
-	<li>Observability &amp; Telemetry - hands on experience with Prometheus, Grafana, distributed tracing and metrics- driven alerting.</li>
-	<li>Systems Design - proven track record of designing reliable, fault-tolerant distributed systems.</li>
-	<li>Demonstrated experience working alongside AI assistants or automated tools to augment task execution and project delivery</li>
-</ul>
-<h2>Bonus Points:</h2>
-<ul>
-	<li>Knowledge of Networking engineering, with competencies in Layer 2 and Layer 3 protocols and network APIs (gRPC/gNMI, NETCONF).</li>
-	<li>Experience working with configuration management frameworks: Ansible, Chef, Saltstack.</li>
-	<li>Experience with declarative configuration management and state-reconciliation systems.</li>
-	<li>Experience managing internal and/or external customer requirements and expectations</li>
-</ul>
-<p>&nbsp;</p>
-<h3 data-path-to-node="0"><strong data-path-to-node="0" data-index-in-node="0">Compensation</strong></h3>
-<ul data-path-to-node="1">
 	<li>
-		<p data-path-to-node="1,0,0">For Portugal based hires: Estimated annual salary is between €66,000 - €91,000.</p>
+		<p>Build and maintain our SDKs, Terraform provider, and the code generation tooling behind them.</p>
+	</li>
+	<li>
+		<p>Develop API versioning and compatibility practices that let our API evolve without leaving customers behind.</p>
+	</li>
+	<li>
+		<p>Improve API governance: consistent schemas, clear standards, and checks that catch problems before release.</p>
+	</li>
+	<li>
+		<p>Support internal teams daily and work directly with customers to investigate issues and turn recurring friction into lasting improvements.</p>
+	</li>
+	<li>
+		<p>Own projects from design through release and ongoing maintenance.</p>
 	</li>
 </ul>
-<h3 data-path-to-node="2"><strong data-path-to-node="2" data-index-in-node="0">Equity</strong></h3>
-<ul data-path-to-node="3">
+<h3><strong>Desirable Skills, Knowledge, and Experience</strong></h3>
+<ul>
 	<li>
-		<p data-path-to-node="3,0,0">This role is eligible to participate in Cloudflare's equity plan.</p>
+		<p>5+ years of experience building large-scale software applications.</p>
+	</li>
+	<li>
+		<p>Deep Go expertise, with experience building and maintaining production software.</p>
+	</li>
+	<li>
+		<p>Fluency across languages such as TypeScript and Python, and an understanding of what makes a library feel natural in each.</p>
+	</li>
+	<li>
+		<p>Experience building, maintaining, or contributing to a Terraform provider.</p>
+	</li>
+	<li>
+		<p>Experience shipping SDKs or client libraries, including testing, releases, dependency management, and backward compatibility.</p>
+	</li>
+	<li>
+		<p>Well-reasoned opinions about API design and developer tooling, paired with the ability to listen, explain tradeoffs, and make practical decisions.</p>
+	</li>
+	<li>
+		<p>Strong technical judgment built through experience: you can untangle complex problems, set a clear direction, and lead projects from early design through delivery.</p>
+	</li>
+	<li>
+		<p>A track record of helping junior engineers grow through thoughtful feedback, mentoring, and opportunities to take ownership.</p>
+	</li>
+	<li>
+		<p>Experience using AI and automation to improve engineering workflows, with the judgment to identify where they add value and verify the quality of their output.</p>
 	</li>
 </ul>
-<p>&nbsp;</p>
+<h3><strong>Bonus Points</strong></h3>
+<ul>
+	<li>
+		<p>Experience versioning an API, building schema-driven code generators, or establishing API governance is especially valuable. We’re interested in what you’ve built, how you’ve maintained it, and what you’ve learned from the people using it.</p>
+	</li>
+	<li>
+		<p>Experience managing containerized workloads at scale using Kubernetes, Docker, or similar orchestration platforms.</p>
+	</li>
+	<li>
+		<p>Familiarity with CI/CD pipelines and automated testing strategies for infrastructure.</p>
+	</li>
+	<li>
+		<p>Contributions to open-source systems software projects or active participation in the broader systems engineering community.</p>
+	</li>
+</ul>
 <div class="content-conclusion">
 	<h3>What Makes Cloudflare Special?</h3>
 	<p><span style="font-weight: 400;">We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.</span></p>

@@ -20,34 +20,22 @@
 <p>You’ll build and operate secure and resilient distributed systems for secrets and key management, running across our network that spans more than 310 cities in over 120 countries. Our focus is strengthening/re-architecting internal PKI and machine/workload identity. You’ll run and support the systems we build, both in an operational sense and by helping other internal developers use them. You will participate in the On Call rotation for emergency incident response. You’ll consult on the design and architecture of new systems and products to ensure they are built securely and use our services correctly.</p>
 <h3>Required skills</h3>
 <ul>
-	<li>
-		<p>Software development and distributed systems design expertise.</p>
-	</li>
-	<li>
-		<p>Linux/UNIX system administration proficiency.</p>
-	</li>
-	<li>
-		<p>Strong security background with a focus on implementation, not policy/compliance.</p>
-	</li>
+	<li><strong>Production software development:</strong> Experience designing, building, and maintaining production software in Go, C, C++, Rust, or comparable languages. We value systems-oriented engineering experience, not familiarity with a particular language alone.</li>
+	<li><strong>Production infrastructure ownership:</strong> Experience both building and operating critical production services or infrastructure, including debugging failures, recovering service, and improving reliability. Ability to reason about distributed systems and their failure modes.</li>
+	<li><strong>Linux/UNIX proficiency:</strong> Hands-on experience administering and troubleshooting Linux/UNIX systems in production.</li>
+	<li><strong>Security engineering:</strong> Experience developing or operating software or systems designed to provide security capabilities or enforce security boundaries. This can be part of a broader software or infrastructure engineering role; a dedicated security job title is not required.</li>
+	<li><strong>Applied cryptography:</strong> A working understanding of symmetric and asymmetric cryptography and public key infrastructure (PKI), sufficient to make sound implementation choices using established libraries and protocols. Experience designing new cryptographic algorithms is not required.</li>
 </ul>
 <h3>Bonus/nice-to-have skills</h3>
 <ul>
-	<li>
-		<p>Track record of contributing to open source security or distributed systems projects.</p>
-	</li>
-	<li>
-		<p>Cryptography background and ability to work with cryptosystems at the primitives level.</p>
-	</li>
-	<li>
-		<p>Experience with HSMs, TPMs, or other platform TEEs (e.g. AMD SEV, Intel SGX, Apple Secure Enclave).</p>
-	</li>
-	<li>
-		<p>Familiarity with HashiCorp Vault or OpenBao, or similar.</p>
-	</li>
-	<li>
-		<p>Familiarity with Go and/or Python + Salt specifically.</p>
-	</li>
+	<li>Experience with secrets management, key management, internal certificate authorities/PKI, or machine and workload identity.</li>
+	<li>Experience managing the lifecycle of keys, certificates, or credentials, including issuance, rotation, expiration, and revocation.</li>
+	<li>Familiarity with HashiCorp Vault, OpenBao, or similar systems.</li>
+	<li>Experience with hardware-backed security, such as HSMs, TPMs, or trusted execution environments.</li>
+	<li>Familiarity with Go, Python, or Salt.</li>
+	<li>Contributions to open source security, systems software, or distributed systems projects.</li>
 </ul>
+<p>You do not need experience with every technology listed above. We welcome candidates with strong software and infrastructure engineering fundamentals and related security experience.</p>
 <h3>Compensation</h3>
 <p>Compensation may be adjusted depending on work location.</p>
 <ul>

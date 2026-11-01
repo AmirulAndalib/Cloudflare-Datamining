@@ -3,75 +3,30 @@
 	<p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p>
 	<p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p>
 </div>
-<h1><strong>Software Engineer, AI Agents</strong></h1>
-<p><strong>Location:</strong> India, Bangalore</p>
-<h2><strong>Exp:</strong> 5 - 10yrs</h2>
-<h2><strong>Why This Role Matters</strong></h2>
-<p>At Cloudflare, we're building industrial-scale AI agents that support customers directly. This isn't research theater. Your code will power real customer interactions from day one, at global scale.</p>
-<p>Cloudflare already has the parts. You will assemble Workers, Durable Objects, KV, R2, D1, Vectorize, Workers AI, AI Gateway, and the Agent SDK into real agents customers use every day.</p>
-<h2><strong>Role Intent</strong></h2>
-<p>Ship production agents on the Cloudflare stack. Build, deploy, learn, repeat. Your code is the front door for Cloudflare customers.</p>
-<h2><strong>What You Will Do</strong></h2>
+<p><strong>Available Locations:&nbsp;</strong>Singapore, Sydney, or Tokyo</p>
+<p><strong>About the Role:&nbsp;</strong></p>
+<p>Do you love solving complex problems and interacting with people? Are you passionate about helping customers and are a standout colleague? Cloudflare is seeking a Technical Customer Support Engineer to join our team. You will work with our customers on a variety of technical support issues as well as the Technical Operations team that is responsible for running our global distributed network. This is a position where you will learn the inner workings of Cloudflare's technology and gain a deeper understanding of internet technologies. You will focus on providing support on our Developer Platform products: Workers, Workers AI, Pages, KV, Stream, R2, D1, DO etc.</p>
+<h3><strong>Examples of desirable skills, knowledge and experience:</strong></h3>
 <ul>
-	<li>Build agents on Workers with Durable Objects for state and short term memory</li>
-	<li>Wire tools with the Agent SDK, MCP, and function calling</li>
-	<li>Use Vectorize, KV, R2, and D1 for semantic memory, cache, files, and config</li>
-	<li>Run models through Workers AI and AI Gateway; integrate third parties when needed</li>
-	<li>Create evals, guardrails, and audits. Measure, tune, re-ship fast</li>
-	<li>Build agents that summarize, propose fixes, and escalate cleanly to humans</li>
-	<li>Expose agent health and metrics in transparent dashboards. No mystery boxes</li>
-	<li>Integrate with queues and webhooks; publish events on Queues or Pub/Sub</li>
-	<li>Cut cost per case and time to first response. Prove it with data.</li>
-	<li>Take end to end ownership including on call for what you ship (with team support)</li>
-	<li>Design and maintain robust observability for distributed AI workflows, implementing structured logging and end-to-end tracing across async service boundaries to ensure visibility into agent reasoning and execution.</li>
-	<li>Architect security boundaries for agent-led operations; implementing secure credential handling, multi-layer approval gates, and fine-grained trust scoping for mutative actions.</li>
+	<li>You are familiar with Developer Platform products</li>
+	<li>You have previous experience working as part of a team in a customer-facing role</li>
+	<li>You have experience solving HTTP, DNS and other networking-related problems</li>
+	<li>You have experience with a common web development language (for example, Javascript)</li>
+	<li>You understand how the Internet works</li>
+	<li>You have experience working in a support role where you thrived every time you resolved a ticket</li>
+	<li>You are comfortable communicating through various support channels and always put the customer first&nbsp; (Emails, Live Chats, Phone calls and&nbsp; virtual meetings)</li>
+	<li>You are a motivated self-starter and always looking to expand your existing skill set</li>
 </ul>
-<h2><strong>Must Have</strong></h2>
+<h3><strong>Bonus Points</strong></h3>
 <ul>
-	<li>Demonstrated success shipping production systems. Repos and releases that show real work.</li>
-	<li>Strong in TypeScript or Rust on Workers. HTTP, queues, async, performance</li>
-	<li>Fluency with Durable Objects, KV or R2, and either D1 or Postgres</li>
-	<li>Hands on with model tooling. Prompt I/O, tool calling, evals, safety checks</li>
-	<li>Observability mindset. Logs, traces, metrics, redlines</li>
-	<li>Experience with a2a/multi-agent frameworks</li>
-	<li>Experience developing LLM evaluation frameworks; automated scoring systems, CI-integrated quality gates.</li>
-	<li>Bias for simple, scalable designs</li>
+	<li>You are familiar with Cloudflare and have a site actively using our platform</li>
+	<li>You have a solid grasp of problem-solving with command line tools (curl/dig/traceroute/tcpdump)</li>
+	<li>You are familiar with Nginx, Apache, IIS or any other web servers</li>
+	<li>You are committed to gaining a deeper understanding of the following technologies: DNS /&nbsp; CDN - Cache / SSL / Cloudflare Workers</li>
+	<li>You have worked with PostgreSQL, MySQL, MS SQL or other database servers</li>
+	<li>You have experience with Cloudflare Workers and/or JavaScript&nbsp;</li>
+	<li>You have experience with Video encoding and streaming solutions</li>
 </ul>
-<h2><strong>Nice to Have</strong></h2>
-<ul>
-	<li>Workers AI, AI Gateway, and Vectorize in production</li>
-	<li>Salesforce or Service Cloud experience. Webhooks and case APIs</li>
-	<li>Security depth. Prompt injection protection, secrets detection, PII handling</li>
-	<li>OSS agent frameworks. Know what to borrow and what to throw away.</li>
-</ul>
-<h2><strong>How We Build</strong></h2>
-<ul>
-	<li>Align fast on what matters.</li>
-	<li>Divide and conquer. Own your piece.</li>
-	<li>Ship. Watch customers use it.</li>
-	<li>Learn and repeat.</li>
-</ul>
-<h2><strong>Why Join Cloudflare in India?</strong></h2>
-<p><strong>Impact at global scale:</strong> Your code will serve Cloudflare's customers across every region. Tens of millions of Internet properties depend on us.</p>
-<p><strong>Work on the edge:</strong> Few companies give engineers the chance to build AI directly into an edge platform that runs in 300+ cities worldwide.</p>
-<p><strong>Career growth:</strong> As one of the early engineers in our India based AI team, you'll have visibility, leadership opportunities, and a direct hand in shaping Cloudflare's AI roadmap.</p>
-<p><strong>Culture of ownership:</strong> We believe in autonomy, accountability, and trust. Engineers here own outcomes, not just tickets.</p>
-<p><strong>Learn and grow fast:</strong> Collaborate with peers across Support, Product, Security, and AI Platform teams. We encourage knowledge sharing, mentorship, and continuous learning.</p>
-<h2><strong>Interview Signal</strong></h2>
-<p>Expect to demonstrate your ability to:</p>
-<ul>
-	<li>Build a mini agent on Workers using the Agent SDK</li>
-	<li>Store session memory in Durable Objects</li>
-	<li>Add semantic recall with Vectorize</li>
-	<li>Ship behind a KV flag with traces and observability</li>
-	<li>Push to production fast and take ownership</li>
-</ul>
-<h2><strong>Team Mission</strong></h2>
-<p>The Agent Tech team owns the end to end stack for customer facing agents on Cloudflare. Everything runs at the edge.</p>
-<p><strong>Core Stack:</strong> Workers, Durable Objects, KV, R2, D1, Queues, Pub/Sub, Vectorize, Workers AI, AI Gateway, Pages, Zero Trust.</p>
-<p><strong>Principles:</strong> Ship fast. Measure truth. Simplify relentlessly. Own outcomes.</p>
-<p>&nbsp;</p>
-<p><strong>Fraud Alert:</strong>&nbsp;<em>Do not fall victim to recruitment fraud. Cloudflare never charges application fees or requires candidates to purchase third-party certifications or training as a condition of employment. All official communication comes strictly from @</em><a href="http://cloudflare.com/"><span class="s1"><em>cloudflare.com</em></span></a><em>&nbsp;email addresses.</em></p>
 <div class="content-conclusion">
 	<h3>What Makes Cloudflare Special?</h3>
 	<p><span style="font-weight: 400;">We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.</span></p>

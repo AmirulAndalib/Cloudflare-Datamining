@@ -1,5 +1,5 @@
 {
-	"absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/8099671?gh_jid=8099671",
+	"absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/8332361?gh_jid=8332361",
 	"data_compliance": [
 		{
 			"type": "gdpr",
@@ -10,8 +10,7 @@
 			"demographic_data_consent_applies": false
 		}
 	],
-	"education": "education_optional",
-	"internal_job_id": 3508835,
+	"internal_job_id": 3601651,
 	"location": {
 		"name": "Hybrid"
 	},
@@ -19,17 +18,16 @@
 		{
 			"id": 825338,
 			"name": "Cost Center",
-			"value": "4100 - Infrastructure Engineering",
+			"value": "5150 - Field Sales",
 			"value_type": "single_select"
 		},
 		{
 			"id": 8654220,
 			"name": "Job Posting Location",
 			"value": [
-				"Atlanta, US",
-				"Austin, US",
-				"Denver, US",
-				"New York, US"
+				"Austin, TX",
+				"Dallas, TX",
+				"Houston, TX"
 			],
 			"value_type": "multi_select"
 		},
@@ -37,24 +35,40 @@
 			"id": 46546702,
 			"name": "Career Site Department",
 			"value": [
-				"Infrastructure"
+				"Sales"
 			],
 			"value_type": "multi_select"
 		}
 	],
-	"id": 8099671,
-	"updated_at": "2026-10-21T14:43:01-04:00",
-	"requisition_id": "935",
-	"title": "Network Deployment Engineer",
+	"id": 8332361,
+	"updated_at": "2026-10-30T18:16:11-04:00",
+	"requisition_id": "GTM_2027Plan_AMER US PUBSEC SLED CNTL#24128",
+	"title": "Client Executive, SLED",
 	"company_name": "Cloudflare",
-	"first_published": "2026-08-07T12:47:38-04:00",
+	"first_published": "2026-10-29T17:12:42-04:00",
 	"language": "en",
 	"application_deadline": null,
 	"departments": [
 		{
-			"id": 30604,
-			"name": "Infrastructure",
-			"child_ids": [],
+			"id": 29066,
+			"name": "Sales",
+			"child_ids": [
+				227430,
+				70661,
+				71029,
+				90946,
+				90947,
+				90948,
+				70657,
+				70662,
+				70658,
+				70659,
+				70660,
+				74075,
+				70663,
+				70664,
+				144594
+			],
 			"parent_id": null
 		}
 	],
@@ -67,23 +81,16 @@
 			"parent_id": 48752
 		},
 		{
-			"id": 19990,
-			"name": "New York, NY",
-			"location": "New York, New York, United States",
+			"id": 62225,
+			"name": "Dallas, TX",
+			"location": "Dallas, Texas, United States",
 			"child_ids": [],
 			"parent_id": 48752
 		},
 		{
-			"id": 65527,
-			"name": "Denver, CO",
-			"location": "Denver, Colorado, United States",
-			"child_ids": [],
-			"parent_id": 48752
-		},
-		{
-			"id": 66815,
-			"name": "Atlanta, GA",
-			"location": null,
+			"id": 76874,
+			"name": "Houston, TX",
+			"location": "Houston, Texas, United States",
 			"child_ids": [],
 			"parent_id": 48752
 		}

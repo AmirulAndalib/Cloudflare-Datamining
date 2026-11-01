@@ -6,7 +6,7 @@
 <p><strong>Available Locations:&nbsp;</strong>Austin, TX; San Francisco, CA; New York City</p>
 <p><strong>About the role</strong></p>
 <p>The web is undergoing a structural transition from a search-first economy to an AI-mediated, agentic ecosystem. Cloudflare sits in front of more than 20% of the world's web traffic, providing an unmatched, front-row view of how Large Language Models (LLMs), AI bots, and autonomous agents interact with digital content.</p>
-<p>We are seeking a <strong>Strategic Partnerships Lead / Director</strong> to join Cloudflare’s Strategic Partnerships team. In this high-impact, zero-to-one role, you will define and execute our strategy to transform Cloudflare’s rich network and CDN data into actionable business, marketing, and Answer Engine Optimization (AEO) intelligence.</p>
+<p>We are seeking a <strong>Strategic Partnerships Lead / Director - AEO/GEO Analytics&nbsp;</strong>to join Cloudflare’s Strategic Partnerships team. In this high-impact, zero-to-one role, you will define and execute our strategy to transform Cloudflare’s rich network and CDN data into actionable business, marketing, and Answer Engine Optimization (AEO) intelligence.</p>
 <h4><strong>What you'll do</strong></h4>
 <p>You will act as the crucial bridge between enterprise customers, Product &amp; Engineering, and Go-To-Market (GTM) teams. Your mission is to build and commercialize the "Analytics of the Agentic Era"—helping non-technical business leaders, CMOs, and digital publishers measure content value, track agentic traffic, and optimize brand visibility across AI answer engines.</p>
 <p><strong>Responsibilities</strong></p>

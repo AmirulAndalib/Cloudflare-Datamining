@@ -3,65 +3,39 @@
 	<p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p>
 	<p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p>
 </div>
-<h2><span style="font-size: 12pt;">Available Locations: </span><span style="font-size: 10pt;"><strong>Austin, US</strong></span></h2>
-<h2><span style="font-size: 12pt;">About the Role</span></h2>
-<p>The Data Intelligence &amp; Analytics organization builds the core data platform and internal products that power decision-making across the company. We design and operate large-scale data systems, own the company’s data lake, ingestion infrastructure, and platform tooling, and develop end-to-end applications that transform complex datasets into fast, reliable, business-critical products used daily by go-to-market, product, and engineering teams. Our work sits at the intersection of data platforms, distributed systems, and product development, giving engineers the opportunity to own meaningful problems across the stack and build systems that truly run the business.</p>
-<p>You will focus on building scalable, reliable AI/ML models, services and GenAI powered application backends, partnering closely with data and full-stack engineers to deliver new features and operate the pipelines and platforms behind our products. Our stack spans multiple languages and technologies, including Python, React, and TypeScript, and continues to evolve. Many of our applications also incorporate strong AI components, giving you opportunities to work with modern AI infrastructure and tools such as vector databases, MCP-based services, and Workers AI.</p>
-<h2>Responsibilities</h2>
+<p><strong>Available Locations: </strong>Austin, Texas. You will be expected to work from our Austin office twice a week.</p>
+<h4>About the Department</h4>
+<p>The Cloudflare Customer Support Team solves complicated problems and answers technical questions via phone, email, chat and social media. Whether it is a Wordpress blogger using our services for free or a global Enterprise business with petabytes of web traffic, we are always eager to assist. We are the eyes and ears of Cloudflare, acting as the real-time voice of the customer to help communicate their needs and real-world use cases back to the rest of the company - for better service and future product development.</p>
+<h4><strong>About the role</strong></h4>
+<p>Do you love solving complex technical issues and interacting with people? Are you passionate about providing premium-level support to customers and are a standout colleague? Cloudflare is seeking an experienced <strong>Technical Support Engineer for Zero Trust </strong>to join our team. You will work with our largest and most technically sophisticated customers on a variety of technical support issues to ensure they can deploy and operate Cloudflare's Zero Trust solutions with confidence.</p>
+<h4><strong>Responsibilities</strong></h4>
 <ul>
-	<li>Partner and align with business leaders, stakeholders, product managers and internal teams to understand the business and product challenges and goals and address them using predictive analytics in a globally distributed environment.</li>
-	<li>Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data engineering team to improve the data collection and quality.</li>
-	<li>Understand business/product strategy and high-level roadmap and align analysis efforts to enable them with data insights and help achieve their strategic goals.</li>
-	<li>Strong audience focused presentation and storytelling skills focused on key takeaways in a crisp and concise manner.</li>
-	<li>Define, implement, and train statistical, machine learning, deep learning and generative AI models.</li>
-	<li>Use software engineering best practices to publish model scores/insights/learnings at scale within the company.</li>
-	<li>Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.</li>
-	<li>Active role in hiring, growing, and mentoring the data scientist team in Austin.</li>
+	<li>Serve as a trusted technical advisor, providing advanced support for enterprise customers using Cloudflare’s Zero Trust platform, including products like Access, Gateway, Cloudflare Tunnels, Cloudflare WAN and the Cloudflare One client (formerly known as Cloudflare WARP client).</li>
+	<li>Troubleshoot and resolve complex technical issues related to identity, device security, and secure application access.</li>
+	<li>Communicating and working directly with the customers via phone, video conference (ie Zoom, Google Meet), chat and tickets in Salesforce</li>
+	<li>Work directly with customers to diagnose and remediate configuration and integration challenges with authentication protocols (e.g., SSO, SAML, OIDC) and network security settings.</li>
+	<li>Create and maintain knowledge base articles, technical guides, and troubleshooting documentation for internal and customer use.</li>
+	<li>Partner with Cloudflare’s Product, Engineering, and Security teams to escalate and resolve advanced customer issues.</li>
+	<li>Provide feedback based on customer interactions to drive product improvements and ensure alignment with user needs.</li>
+	<li>Assist customers in identifying and responding to security incidents, leveraging Cloudflare’s threat intelligence and security tools.</li>
 </ul>
-<h2>Desirable Skills, Knowledge, and Experience</h2>
+<h4><strong>Desirable Skills, Knowledge, and Experience</strong></h4>
 <ul>
-	<li>M.S or Ph.D in Computer Science, Statistics, Mathematics, or other quantitative fields.</li>
-	<li>5+ years of data scientist experience with proven industry experience in a large scale environment (PBs scale &amp; globally distributed teams)</li>
-	<li>Strong experience working with business functions such as Finance, Sales, and Marketing to build models and drive impactful business outcomes (eg: customer and revenue growth)</li>
-	<li>2+ years experience with a fast-growing SaaS business based company is preferred.</li>
-	<li>Strong experience in scientific computing using Python.</li>
-	<li>Experience with Spark, SQL, Tableau, Google Analytics, BigQuery (or any other Big data/Cloud equivalent) etc.</li>
-	<li>Experience working with and processing structured, unstructured, and semi-structured data.</li>
-	<li>Strong cross-functional collaboration experience with data engineering and data analysts teams within the function.</li>
-	<li>Proven track record of applying data insights and machine learning in order to address business needs and drive revenue.</li>
-	<li>Proficiency in large language models and the frameworks (Langchain, Langgraph, etc.) necessary for implementing GenAI applications, such as AI Agents, chatbots and related use cases.</li>
-	<li>Strong communication and presentation skills catered to different audiences within the company.</li>
-	<li>Capable of working closely with business, engineering, and product teams to ensure data initiatives are aligned with business needs.</li>
-	<li>Experience in hiring data scientists and establishing team best practices is preferred.</li>
+	<li>Availability to work the weekend shift (Saturday &amp; Sunday)</li>
+	<li>You have a minimum of 3 years experience working as a Support Engineer / Sr. Support Engineer supporting networking or web security products.</li>
+	<li>Exceptional troubleshooting and problem-solving skills, with the ability to simplify complex concepts for customers.</li>
+	<li>Strong customer service orientation and communication skills, both written and verbal.</li>
+	<li>Ability to work independently and collaboratively in a fast-paced, dynamic environment.</li>
+	<li>You have experience supporting and troubleshooting multi-factor mechanisms (TOTP, SMS, FIDO, U2F, WebAuth, EMAIL, Push MFA, etc).</li>
+	<li>Hands-on experience with identity and access management (IdP, IAM, SCIM) systems, such as Okta, Microsoft Entra, Ping, etc. Strong knowledge of authentication protocols (SAML, OIDC)</li>
+	<li>Proficiency in networking fundamentals, including DNS, VPNs, firewalls, and traffic routing.</li>
+	<li>Experience supporting cloud platforms (AWS, Azure, GCP) and SaaS application integrations.</li>
+	<li>You have worked with PostgreSQL, MySQL, MS SQL or other database servers.</li>
+	<li>Bachelor’s degree in Computer Science, Information Systems, Cybersecurity, or a related field (or equivalent experience). This may also include specialized bootcamps.&nbsp;</li>
+	<li>Relevant certifications such as Cloudflare Certified Zero Trust Specialist, CISSP, or CCSP.</li>
+	<li>Experience with building projects on Cloudflare or using Cloudflare Products.</li>
 </ul>
 <p>&nbsp;</p>
-<h3>Equity</h3>
-<p>This role is eligible to participate in Cloudflare's equity plan.</p>
-<h3>Benefits</h3>
-<p>Cloudflare offers a complete package of benefits and programs to support you and your family. Our benefits programs can help you pay health care expenses, support caregiving, build capital for the future and make life a little easier and fun! The below is a description of our benefits for employees in the United States, and benefits may vary for employees based outside the U.S.</p>
-<p>Health &amp; Welfare Benefits</p>
-<ul>
-	<li>Medical/Rx Insurance</li>
-	<li>Dental Insurance</li>
-	<li>Vision Insurance</li>
-	<li>Flexible Spending Accounts</li>
-	<li>Commuter Spending Accounts</li>
-	<li>Fertility &amp; Family Forming Benefits</li>
-	<li>On-demand mental health support and Employee Assistance Program</li>
-	<li>Global Travel Medical Insurance</li>
-</ul>
-<p>Financial Benefits</p>
-<ul>
-	<li>Short and Long Term Disability Insurance</li>
-	<li>Life &amp; Accident Insurance</li>
-	<li>401(k) Retirement Savings Plan</li>
-	<li>Employee Stock Participation Plan</li>
-</ul>
-<p>Time Off</p>
-<ul>
-	<li>Flexible paid time off covering vacation and sick leave</li>
-	<li>Leave programs, including parental, pregnancy health, medical, and bereavement leave</li>
-</ul>
 <div class="content-conclusion">
 	<h3>What Makes Cloudflare Special?</h3>
 	<p><span style="font-weight: 400;">We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.</span></p>
