@@ -81,6 +81,7 @@
 		"arobinson/storage-latency-recording",
 		"arobinson/types-defines-copyright-headers",
 		"arobinson/writable-stream-abort-error",
+		"automatic-update-wpt",
 		"automatic-update-wpt-npaun/wpt-update-triage-agent",
 		"avenceslau/restart-from-step",
 		"bazel-debug-wrappers",
