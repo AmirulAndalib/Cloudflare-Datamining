@@ -23,7 +23,6 @@
 	"branches": [
 		"changeset-release/main",
 		"chore/harden-registry-resolution",
-		"feat/api-operation-order",
 		"feat/content-sources",
 		"feat/native-satteri-admonitions",
 		"fix/a11y-gate",
